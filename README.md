@@ -1,4 +1,4 @@
-##Youtube Clone Application
+## Youtube Clone Application
 
 This project is a clone of Youtube (Front-End application only). The application is supported by Material-UI, Firebase and React-Router. For a responsive design, the flexbox has been used for designing the application.
 
